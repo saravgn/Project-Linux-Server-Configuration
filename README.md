@@ -53,7 +53,6 @@ Package Name | Description
 - Install and configure `PostgreSQL` with default settings to *not* allow remote connection.
 - Created a new user `catalog`, added user to PostgreSQL databse with limited permissions to catalog application database.
 - Get OAUTH-LOGINS (Google+ and Facebook) working.
-- Installed and Configured `Fail2ban` intrusion protection that bans suspicious IPs.
 
 ----------
 
